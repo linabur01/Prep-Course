@@ -1,0 +1,5 @@
+Variables: es una forma de almacenar información. 
+se hace a traves de las palabras VAR LET y CONS
+ 
+STRINGs son las palabras en comillas que definen un concepto.
+Retunr son los datos en los que no cambian la 
